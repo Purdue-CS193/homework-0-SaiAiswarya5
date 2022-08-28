@@ -1,4 +1,12 @@
-## Welcome to our GitHub website
+# Sai Aiswarya Sadagopan's First CS193 Homework
+
+***My favourite things about CS193:
+- The amazing course leads
+- The super fun and interesting questions we were asked as an icebreaker
+- The smaller lecture hall which encourages communication
+- The awesome students in the course
+
+## Welcome 
 
 **Please review the following information:**
 - You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
