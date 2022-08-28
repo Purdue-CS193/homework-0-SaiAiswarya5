@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to our GitHub website
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Please review the following information:**
+- You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- You can visit the [website](https://Purdue-CS193.github.io/homework-0-SaiAiswarya5/)
 
 ### Markdown
 
@@ -26,7 +27,22 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The following code is a famous introductory lesson
+
+```
+import.java.util.Scanner;
+
+public class HelloWorld {
+	//hello world
+
+	public static void main(String [] args) {
+		Scanner scanner = new Scanner (System.in);
+		System.out.println("Hello World");
+        }
+}
+```
+
+_For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)._
 
 ### Jekyll Themes
 
