@@ -1,6 +1,6 @@
 # Sai Aiswarya Sadagopan's First CS193 Homework
 
-***My favourite things about CS193:
+**My favourite things about CS193:
 - The amazing course leads
 - The super fun and interesting questions we were asked as an icebreaker
 - The smaller lecture hall which encourages communication
